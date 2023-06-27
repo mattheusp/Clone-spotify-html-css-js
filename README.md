@@ -1,11 +1,11 @@
-# Criando um Clone do Spotify em HTML, CSS e JavaScript
+# Criando um Clone do Spotify em HTML, CSS e JavaScript 🎵
 
-## Pré-requisitos
+## Pré-requisitos 👇
 
 - Um navegador web moderno, como Google Chrome ou Mozilla Firefox.
 - Um editor de código de sua escolha, como Visual Studio Code, Sublime Text, Atom, etc.
 
-## Instruções de Uso
+## Instruções de Uso 🔴
 
 1. Clone este repositório em sua máquina local:
 
