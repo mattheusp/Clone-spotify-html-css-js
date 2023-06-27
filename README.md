@@ -13,14 +13,14 @@
    git clone https://github.com/seu-usuario/spotify-clone.git
 
 
-## Estrutura do Projeto
+## Estrutura do Projeto ⚙️
 
 - index.html: O arquivo HTML principal que contém a estrutura básica da página.
 - style.css: O arquivo CSS que define a aparência visual do aplicativo.
 - script.js: O arquivo JavaScript que manipula a lógica e interatividade do aplicativo.
 
 
-## Recursos Úteis
+## Recursos Úteis 🛠️
     HTML: Documentação do MDN Web Docs
     CSS: Documentação do MDN Web Docs
     JavaScript: Documentação do MDN Web Docs
