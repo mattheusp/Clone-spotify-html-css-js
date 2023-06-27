@@ -87,8 +87,9 @@ html, body {height: 100%;}
 }
 
 .sidebar__playlists {
-    padding: 40px 0;
+    padding: 20px 0;
     border-top: 1px solid rgb(40, 40, 40);
+    margin-top: 30px;
 }
 
 .sidebar__playlists a {
