@@ -102,3 +102,13 @@ html, body {height: 100%;}
 .sidebar__playlists a:hover{
     color: white;
 }
+
+/* Parte principal do app */
+
+.main {
+    width: calc(100% - 250px);
+    background-color: rgb(30, 30, 30);
+    height: 100%;
+
+    float: left;
+}
