@@ -9,9 +9,23 @@ pauseBtn.addEventListener('click', (e) => {
 
     playBtn.style.display = "inline";
     pauseBtn.style.display = "none";
+    audioPlayer.pause();
+
 
     return false;
 });
+
+playBtn.addEventListener('click', (e) => {
+    e.preventDefault();
+
+    playBtn.style.display = "none";
+    pauseBtn.style.display = "inline";
+    audioPlayer.play();
+
+
+    return false;
+});
+
 
 const playSong = (file) => {
     if (loaded == false) {
@@ -38,5 +52,6 @@ document.querySelectorAll('.main__col').forEach(item => {
             <img src="` +image+ `" />
             <h3>` + artist + `<br/><span>` + song + `</span></h3>
         `;
+        playSong (file);
     });
 });
