@@ -210,7 +210,7 @@ html, body {height: 100%;}
 
 .player__control__progress {
     width: 100%;
-    max-width: 600px;
+    max-width: 1200px;
     height: 7px;
     margin-top: 20px;
     position: relative;
@@ -218,6 +218,7 @@ html, body {height: 100%;}
     display: inline-block;
     background: rgb(130, 130, 130);
 }
+
 
 .player__control__progress_2 {
     position: absolute;
